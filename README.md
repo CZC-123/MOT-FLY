@@ -97,3 +97,6 @@ The ground truth of position distribution of UAV objects in 16 sequences of MOT-
 
 ![image-20221101105106480](README/image-20221101105106480.png)
 
+## License
+
+This work is under the **Apache 2.0** license.
