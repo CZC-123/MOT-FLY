@@ -18,25 +18,25 @@ The proposed dataset could be used as a benchmark to evaluate multiple UAV track
 
 `Phantom`
 
-![](README/Phantom_02.jpg)
+<img src="README/Phantom_02.jpg" style="zoom:50%;" />
 
 
 
 `self-made liboratory UAV-1`
 
-![](README/680_02.jpg)
+<img src="README/680_02.jpg" style="zoom:50%;" />
 
 
 
 `self-made laboratory UAV-2`
 
-![](README/laboratory_UAV-2.jpg)
+<img src="README/laboratory_UAV-2.jpg" style="zoom:50%;" />
 
 
 
 `Mavic`
 
-![](README/mavic_01.jpg)
+<img src="README/mavic_01.jpg" style="zoom:50%;" />
 
 ## Data Format
 
@@ -63,7 +63,37 @@ MOT-FLY
 |   ├── ...
 ```
 
+## Sequence
 
+| Name                   | Image size       | Background | Num   | instance |
+| ---------------------- | ---------------- | ---------- | ----- | -------- |
+| DJI_0003_D_S_E (train) | $1080\times1920$ | Village    | 513   | 1452     |
+| DJI_0048_D_S_E (train) | $1080\times1920$ | Flat       | 742   | 2232     |
+| DJI_0277_L_S_H (train) | $1080\times1920$ | Urban      | 761   | 2283     |
+| DJI_0278_L_M_H (train) | $1080\times1920$ | Urban      | 643   | 1901     |
+| DJI_0280_L_M_E (train) | $1080\times1920$ | Sky        | 635   | 1588     |
+| DJI_0281_D_S_H (train) | $1080\times1920$ | Village    | 683   | 2049     |
+| DJI_0283_D_M_H (train) | $1080\times1920$ | Urban      | 777   | 1692     |
+| DJI_0288_D_M_E (train) | $1080\times1920$ | Village    | 742   | 2226     |
+| DJI_0003_D_S_E (test)  | $1080\times1920$ | Village    | 534   | 1602     |
+| DJI_0051_L_S_E (test)  | $1080\times1920$ | Flat       | 630   | 1895     |
+| DJI_0277_L_S_H (test)  | $1080\times1920$ | Urban      | 937   | 2824     |
+| DJI_0278_L_M_H (test)  | $1080\times1920$ | Urban      | 636   | 1675     |
+| DJI_0280_L_M_E (test)  | $1080\times1920$ | Sky        | 636   | 1881     |
+| DJI_0281_D_S_H (test)  | $1080\times1920$ | Village    | 796   | 1387     |
+| DJI_0283_D_M_H (test)  | $1080\times1920$ | Urban      | 786   | 1830     |
+| DJI_0288_D_M_E (test)  | $1080\times1920$ | Village    | 735   | 2205     |
+| **SUM**                |                  |            | 11186 | 31722    |
 
-![image-20221031175000492](README/image-20221031175000492.png)
+## Ground Truth
+
+The ground truth of position distribution of UAV objects in 16 sequences of MOT-FLY.
+
+![image-20221101104958583](README/image-20221101104958583.png)
+
+## Baseline
+
+![image-20221101104544408](README/image-20221101104544408.png)
+
+![image-20221101105106480](README/image-20221101105106480.png)
 
