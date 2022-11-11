@@ -2,7 +2,7 @@
 
 **Authors:** Beijing Institute of Technology, Zhaochen Chu, Tao Song, Ren Jin*
 
-<video id="video" controls=""src="MOT-FLY DATASET.mp4" preload="none">
+The HD video is available on [MOT FLY DATASET - YouTube](https://www.youtube.com/watch?v=t-QuK7Wi63A)
 
 ## Abstract:
 
