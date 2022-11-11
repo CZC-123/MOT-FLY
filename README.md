@@ -2,6 +2,8 @@
 
 **Authors:** Beijing Institute of Technology, Zhaochen Chu, Tao Song, Ren Jin*
 
+<video id="video" controls=""src="MOT-FLY DATASET.mp4" preload="none">
+
 ## Abstract:
 
 Visual-based multi-object tracking (MOT) of micro unmanned aerial vehicles (UAVs) is one of the critical technologies affecting the development of UAVs. It can be applied in cooperative UAV formation, UAV countermeasure system development in complex environments, multi-UAV logistics and other fields. However, the performance of existing visual-based multi-object tracking algorithms in UAVs has not been evaluated. To alleviate this situation, we provide a comprehensive air-to-air multi-UAV tracking dataset, MOT-FLY, consisting of more than 11 000 images of three types of UAVs. The images cover multiple backgrounds, different viewing angles, lighting conditions, UAV sizes, target movement patterns, and numerous challenging scenarios that can serve as a benchmark for evaluating representative multi-object tracking algorithms. Furthermore, this paper designs evaluation experiments for eight representative MOT algorithms based on the proposed dataset. The results reveal the influence of the composition of the dataset, network structure, and image characteristics on the algorithms. Then we put forward some suggestions on the difficulties faced in developing air-to-air multi-UAV tracking and some potential ideas for future directions of the algorithms. The dataset is available at https://github.com/CZC-123/MOT-FLY.
