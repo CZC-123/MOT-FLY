@@ -105,7 +105,11 @@ This work is under the **Apache 2.0** license.
 
 ## Download
 
-MOT-FLY: **Baidu Drive：**https://pan.baidu.com/s/1eS84Ooz0URojz1tAJNZ5Eg?pwd=pe53  code: pe53 
+MOT-FLY: 
+
+**Baidu Drive** https://pan.baidu.com/s/1eS84Ooz0URojz1tAJNZ5Eg?pwd=pe53  code: pe53 
+
+**Google Drive:** https://drive.google.com/file/d/1GiWLF8B18FGDcCSuSuvGokczCkP_NEgo/view?usp=sharing
 
 If you have any problem about MOT-FLY, please contact us. (Email: 3120210041@bit.edu.cn)
 
